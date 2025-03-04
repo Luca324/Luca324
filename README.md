@@ -41,7 +41,7 @@ python manage.py runserver
 ## 📬 Контакты
 Хотите сотрудничать или задать вопрос?  
   
-💼 Telegram: [tanya-webdev](t.me/@ppkk134)  
+💼 Telegram: [tanya-webdev](t.me/ppkk134)  
 
 ---
 
