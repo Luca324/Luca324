@@ -42,7 +42,8 @@
 🔗 **Демо**: [http://89.169.176.255:4173/](http://89.169.176.255:4173/)  
 📂 **GitHub**: [https://github.com/Luca324/FLocky](https://github.com/Luca324/FLocky)  
 - Firebase Realtime Database
-- React + современный стек  
+- React + Create React App
+- Реализованы: История сообщений, удаление и копирование сообщений, создание чатов.
 
 ### 3. Pollster (платформа для анкетирования)  
 📂 **GitHub**: [https://github.com/Luca324/pollster](https://github.com/Luca324/pollster)   
@@ -59,7 +60,7 @@
 
 ## 📫 Как со мной связаться  
 - **Telegram**: [@ppkk134](https://t.me/ppkk134)
-- **Почта**: tanya.mosol@yandex.ru
+- **Почта**: [tanya.mosol@yandex.ru](mailto:tanya.mosol@yandex.ru)
 - **GitHub**: [Luca324](https://github.com/Luca324)  
 
 Ищу позицию Frontend-разработчика (React/TypeScript) в продуктовую компанию или стартап.
