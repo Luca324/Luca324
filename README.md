@@ -31,36 +31,14 @@
   - Пагинация данных  
   - Оптимизация статических файлов  
 
-## 🌟 Мои проекты  
+![Tatyana's Github Stats](https://github-readme-stats.vercel.app/api?username=Luca324&count_private=true&theme=dracula&show_icons=true)
 
-### 1. Физический калькулятор (учебный проект)  
-🔗 **Сайт**: [https://tatyana.rsars.ru/physics/index.html](https://tatyana.rsars.ru/physics/index.html)  
-📂 **GitHub**: [https://github.com/Luca324/PhysicsSiteCalculator](https://github.com/Luca324/PhysicsSiteCalculator)  
-- Нативный JavaScript-проект с расчетами физических формул 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luca324)](https://github.com/anuraghazra/github-readme-stats)
 
-### 2. Веб-мессенджер (учебная практика)  
-🔗 **Демо**: [http://89.169.176.255:4173/](http://89.169.176.255:4173/)  
-📂 **GitHub**: [https://github.com/Luca324/FLocky](https://github.com/Luca324/FLocky)  
-- Firebase Realtime Database
-- React + Create React App
-- Реализованы: История сообщений, удаление и копирование сообщений, создание чатов.
+[![gh stats](https://github-readme-streak-stats.herokuapp.com/?user=Luca324)
 
-### 3. Pollster (платформа для анкетирования)  
-📂 **GitHub**: [https://github.com/Luca324/pollster](https://github.com/Luca324/pollster)   
-- Backend на Django с REST API, фронтенд - нативный JS + JQuery. Реализована аутентификация, CRUD опросов, защита от XSS.
-
-### 4. Калькулятор электрических целей по методам МУН и МН
-🔗 **Сайт**: [https://tatyana.rsars.ru/calculator/index.html](https://tatyana.rsars.ru/calculator/index.html)  
-📂 **GitHub**: [https://github.com/Luca324/MYN-MN-calculation](https://github.com/Luca324/MYN-MN-calculation)  
-- Инструмент для личного использования  
-- Все расчеты физически корректны
-
-### 5. Полноценный MVP для Яндекса, который под NDA 🤫
-стек: React/TypeScript
 
 ## 📫 Как со мной связаться  
-- **Telegram**: [@ppkk134](https://t.me/ppkk134)
-- **Почта**: [tanya.mosol@yandex.ru](mailto:tanya.mosol@yandex.ru)
-- **GitHub**: [Luca324](https://github.com/Luca324)  
-
-Ищу позицию Frontend-разработчика (React/TypeScript) в продуктовую компанию или стартап.
+[![Telegram](https://img.shields.io/badge/-Luca324-blue?style=flat-square&logo=telegram&logoColor=white&link=h[ttps://github.com/Luca324](https://t.me/ppkk134))]([https://github.com/Luca324](https://t.me/ppkk134))
+[![GitHub Badge](https://img.shields.io/badge/-Luca324-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/Luca324)](https://github.com/Luca324)
+[![Gmail Badge](https://img.shields.io/badge/-tanya.mosol@yandex.ru-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tanya.mosol@yandex.ru)](tanya.mosol@yandex.ru)
