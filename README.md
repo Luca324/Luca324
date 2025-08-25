@@ -12,7 +12,7 @@
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-000000?logo=react&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-fcca5e?logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
@@ -21,9 +21,9 @@
 
 #### Другое
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![Django](https://img.shields.io/badge/Django-103e2e?logo=django&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-c470ea?logo=c-sharp&logoColor=white)
 
 ### Навыки  
 - **React**: хуки, контекст, управление состоянием (Redux, Zustand)  
