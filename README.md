@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=colonna+mt&size=48&duration=2800&pause=500&color=FF33CC&center=true&vCenter=true&width=1000&height=80&lines=Tatyana" alt="Tanya" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=colonna+mt&size=48&duration=2800&pause=500&color=FF33CC&center=true&vCenter=true&width=500&height=80&lines=Tatyana" alt="Tanya" />
 </p>
 
 <p align="center">
@@ -11,6 +11,7 @@
 #### **Frontend**  
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-ffed45?logo=&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-fcca5e?logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
