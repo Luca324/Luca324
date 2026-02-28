@@ -9,32 +9,47 @@
 ### Стек  
 
 #### **Frontend**  
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-ffed45?logo=&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-fcca5e?logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+![CSS Modules](https://img.shields.io/badge/CSS_Modules-000000?logo=css-modules&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?logo=styled-components&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?logo=chart.js&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=white)
 
-#### Другое
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-103e2e?logo=django&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-c470ea?logo=c-sharp&logoColor=white)
+#### **Прочее**
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?logo=docker&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6B6B?logo=rest&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-ffed45?logo=&logoColor=white)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?logo=openapi-initiative&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black)
+![Yandex Cloud](https://img.shields.io/badge/Yandex_Cloud-FFCC00?logo=yandex&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
 ### Навыки  
-- **React**: хуки, контекст, управление состоянием (Redux, Zustand)  
-- **TypeScript**: типизация компонентов и API  
-- **Работа с API**: REST, WebSockets  
+- **Frontend**: React, TypeScript, JavaScript, управление состоянием (Redux, Zustand)  
+- **Стилизация**: HTML5, CSS3, SCSS/SASS, Tailwind CSS, CSS Modules, Styled Components  
+- **Инструменты**: Vite, Webpack, Git, Docker, Docker Compose  
+- **API**: REST API, WebSockets, OpenAPI, Swagger  
 - **Тестирование**: Jest, Vitest
+- **CI/CD**: GitHub Actions  
 - **Оптимизация**:  
   - Ленивая загрузка компонентов  
   - Пагинация данных  
-  - Оптимизация статических файлов  
+  - Оптимизация статических файлов
 
 ![Tatyana's Github Stats](https://github-readme-stats.vercel.app/api?username=Luca324&count_private=true&theme=light&show_icons=true)
 
