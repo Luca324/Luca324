@@ -18,6 +18,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=colonna+mt&size=22&duration=2800&pause=1000&color=646CFF&center=true&vCenter=true&width=1000&height=50&lines=Frontend+Developer;✨+Creating+Responsive+Designs+✨;✨+Crafting+Intuitive+User+Interfaces+✨;✨+Pixel-Perfect+Implementation+✨;✨+Modern+Web+Technologies+✨" alt="Frontend Developer, Responsive Design, UI/UX" />
 </p>
  -->
+
 ### Стек  
 
 #### **Frontend**  
