@@ -1,11 +1,23 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=colonna+mt&size=48&duration=2800&pause=500&color=FF33CC&center=true&vCenter=true&width=500&height=80&lines=Tatyana" alt="Tanya" />
+ <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=colonna+mt&size=48&duration=2800&pause=500&color=FF1493&center=true&vCenter=true&width=500&height=80&lines=Tatyana" alt="Tanya" />
 </p>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=colonna+mt&size=22&duration=2800&pause=1000&color=FF33CC&center=true&vCenter=true&width=1000&height=50&lines=Frontend+Developer;✨+Creating+Responsive+Designs+✨;✨+Crafting+Intuitive+User+Interfaces+✨;✨+Pixel-Perfect+Implementation+✨;✨+Modern+Web+Technologies+✨" alt="Frontend Developer, Responsive Design, UI/UX" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=colonna+mt&size=22&duration=2800&pause=1000&color=FF1493&center=true&vCenter=true&width=1000&height=50&lines=Frontend+Developer;✨+Creating+Responsive+Designs+✨;✨+Crafting+Intuitive+User+Interfaces+✨;✨+Pixel-Perfect+Implementation+✨;✨+Modern+Web+Technologies+✨" alt="Frontend Developer, Responsive Design, UI/UX" />
 </p>
-
+<!--
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=colonna+mt&size=48&duration=2800&pause=500&color=E91E63&center=true&vCenter=true&width=500&height=80&lines=Tatyana" alt="Tanya" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=colonna+mt&size=22&duration=2800&pause=1000&color=E91E63&center=true&vCenter=true&width=1000&height=50&lines=Frontend+Developer;✨+Creating+Responsive+Designs+✨;✨+Crafting+Intuitive+User+Interfaces+✨;✨+Pixel-Perfect+Implementation+✨;✨+Modern+Web+Technologies+✨" alt="Frontend Developer, Responsive Design, UI/UX" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=colonna+mt&size=48&duration=2800&pause=500&color=646CFF&center=true&vCenter=true&width=500&height=80&lines=Tatyana" alt="Tanya" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=colonna+mt&size=22&duration=2800&pause=1000&color=646CFF&center=true&vCenter=true&width=1000&height=50&lines=Frontend+Developer;✨+Creating+Responsive+Designs+✨;✨+Crafting+Intuitive+User+Interfaces+✨;✨+Pixel-Perfect+Implementation+✨;✨+Modern+Web+Technologies+✨" alt="Frontend Developer, Responsive Design, UI/UX" />
+</p>
+ -->
 ### Стек  
 
 #### **Frontend**  
@@ -38,14 +50,21 @@
 ![Yandex Cloud](https://img.shields.io/badge/Yandex_Cloud-FFCC00?logo=yandex&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-009639?logo=agile&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-009639?logo=scrum&logoColor=white)
+![Kanban](https://img.shields.io/badge/Kanban-0052CC?logo=kanban&logoColor=white)
 
 ### Навыки  
 - **Frontend**: React, TypeScript, JavaScript, управление состоянием (Redux, Zustand)  
 - **Стилизация**: HTML5, CSS3, SCSS/SASS, Tailwind CSS, CSS Modules, Styled Components  
 - **Инструменты**: Vite, Webpack, Git, Docker, Docker Compose  
 - **API**: REST API, WebSockets, OpenAPI, Swagger  
-- **Тестирование**: Jest, Vitest
+- **Тестирование**: Jest, Vitest  
+- **Облачные платформы**: Yandex Cloud  
 - **CI/CD**: GitHub Actions  
+- **Дизайн**: Figma  
+- **Визуализация данных**: Chart.js  
+- **Методологии**: Agile/Scrum, Kanban  
 - **Оптимизация**:  
   - Ленивая загрузка компонентов  
   - Пагинация данных  
