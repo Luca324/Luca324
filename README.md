@@ -77,6 +77,16 @@
 
 ![gh stats](https://github-readme-streak-stats.herokuapp.com/?user=Luca324)
 
+## Проекты, которыми я горжусь
+
+- [BuildMeister](https://github.com/Luca324/BuildMeister) — [сайт](https://buildmeister.no) норвежского интернет-магазина компьютеров и комплектующих.
+- [Pollster](https://github.com/Luca324/pollster) — платформа для анкетирования.
+- [shri-infra-homework-2025](https://github.com/Luca324/shri-infra-homework-2025) — GitHub Actions workflow, который автоматизирует весь жизненный цикл релизов.
+- [Analytics-service](https://github.com/Luca324/Analytics-service) — сервис для генерации CSV и аналитики с использованием JS потоков.
+- [MYN-MN-calculation](https://github.com/Luca324/MYN-MN-calculation) — [сайт-калькулятор](https://tatyana.rsars.ru/calculator/index.html), который рассчитывает электрические токи по методам МУН и МН.
+- [PhysicsSiteCalculator](https://github.com/Luca324/PhysicsSiteCalculator) — [сайт](https://tatyana.rsars.ru/physics/index.html), который решает задачки по физике.
+- [Plan It](https://github.com/Luca324/PlanIt) — мобильное приложение для планирования на React Native.
+- [FLocky](https://github.com/Luca324/FLocky) — веб-мессенджер.
 
 ## 📫 Как со мной связаться  
 [![Telegram](https://img.shields.io/badge/-Luca324-blue?style=flat-square&logo=telegram&logoColor=white&link=h[ttps://github.com/Luca324](https://t.me/ppkk134))]([https://github.com/Luca324](https://t.me/ppkk134))
