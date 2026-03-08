@@ -86,7 +86,7 @@
 - [MYN-MN-calculation](https://github.com/Luca324/MYN-MN-calculation) — [сайт-калькулятор](https://tatyana.rsars.ru/calculator/index.html), который рассчитывает электрические токи по методам МУН и МН.
 - [PhysicsSiteCalculator](https://github.com/Luca324/PhysicsSiteCalculator) — [сайт](https://tatyana.rsars.ru/physics/index.html), который решает задачки по физике.
 - [Plan It](https://github.com/Luca324/PlanIt) — мобильное приложение для планирования на React Native.
-- [FLocky](https://github.com/Luca324/FLocky) — веб-мессенджер.
+- [FLocky](https://github.com/Luca324/FLocky) — веб-мессенджер на React с десктопной версией на Electron.
 
 ## 📫 Как со мной связаться  
 [![Telegram](https://img.shields.io/badge/-Luca324-blue?style=flat-square&logo=telegram&logoColor=white&link=h[ttps://github.com/Luca324](https://t.me/ppkk134))]([https://github.com/Luca324](https://t.me/ppkk134))
